@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Monuments</item>
+        <item>Parks</item>
+        <item>Museums</item>
+    </string-array>
+</resources>

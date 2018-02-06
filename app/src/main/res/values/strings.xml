@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">GelCityTour</string>
+    <string name="app_name">Gelendzhik City Tour</string>
+    <string name="details_activity_title">Sight Details</string>
+    <string name="sight_categories_title">Sights Categories</string>
+    <string name="image">Image</string>
 </resources>
